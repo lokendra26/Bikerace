@@ -67,7 +67,7 @@ var player = new function(){
         }
         //if(this.rot<Math.PI)
         //{
-          //  this.rot=0;
+        // this.rot=0;
         //}
 
         // this.rot = (this.rot+ Math.PI)%Math.PI;
